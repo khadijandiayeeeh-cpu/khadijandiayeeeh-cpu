@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Khadija Ndiaye
+# 👋 Hello, I'm Khadidiatou Ndiaye
 
 ### 💻 Full Stack Developer | Mobile & Web Developer 🇸🇳
 
