@@ -1,16 +1,36 @@
-## Hi there 👋
+Khadija Ndiaye
+Full Stack Developer 🇸🇳
 
-<!--
-**khadijandiayeeeh-cpu/khadijandiayeeeh-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je conçois et développe des applications web et mobiles
+orientées vers des besoins réels en Afrique.
 
-Here are some ideas to get you started:
+🚀 PROJETS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 SenApp
+Plateforme numérique multiservices...
+
+🏛️ GovAction
+Solution numérique pour rapprocher les citoyens
+des services publics...
+
+🚗 Diant Bi
+Plateforme sénégalaise dédiée à...
+
+💻 TECHNOLOGIES
+
+React
+React Native
+TypeScript
+JavaScript
+Node.js
+Express
+PostgreSQL
+Supabase
+Git & GitHub
+
+🎯 ACTUELLEMENT
+
+• Développement Full Stack
+• Innovation numérique
+• Applications mobiles
+• Solutions numériques pour l'Afrique
