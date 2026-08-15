@@ -16,7 +16,7 @@ I'm particularly interested in **digital innovation, mobile applications, public
 * 🇸🇳 Technology solutions for Senegal and Africa
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -79,4 +79,4 @@ I'm interested in opportunities related to:
 **Full Stack Development · Mobile Development · Digital Innovation · AI · Technology Projects**
 
 
-### 🌍 Building technology for Africa, one project at a time. 🇸🇳
+### Building technology for Africa, one project at a time. 🇸🇳
