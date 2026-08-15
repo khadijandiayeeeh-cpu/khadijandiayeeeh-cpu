@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Khadidiatou Ndiaye
+# Hi, I'm Khadidiatou Ndiaye
 
 ### 💻 Full Stack Developer | Mobile & Web Developer 🇸🇳
 
@@ -6,17 +6,15 @@ I design and build modern web and mobile applications focused on solving real-wo
 
 I'm particularly interested in **digital innovation, mobile applications, public services, and solutions adapted to the African ecosystem**.
 
----
 
-## 🚀 What I Build
+## What I Build
 
-* 🌐 Modern web applications
+* 🌐 Modern web sites and applications
 * 📱 Cross-platform mobile applications
 * 🔐 Secure and scalable digital solutions
 * 🏛️ Digital solutions for public services
 * 🇸🇳 Technology solutions for Senegal and Africa
 
----
 
 ## 🛠️ Tech Stack
 
@@ -42,9 +40,8 @@ I'm particularly interested in **digital innovation, mobile applications, public
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
----
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### 📱 SenApp
 
@@ -52,7 +49,6 @@ A digital platform designed to bring essential services closer to users in Seneg
 
 **Concept:** location-based services, transportation, restaurants, hotels, pharmacies, stations, payments and other local services.
 
----
 
 ### 🏛️ GovAction
 
@@ -60,15 +56,13 @@ A digital platform designed to simplify interactions between citizens and public
 
 **Concept:** digital identity, citizen reports, payments, public services and field-agent tools.
 
----
 
 ### 🚗 Diant Bi
 
 A Senegalese digital platform focused on connecting users with vehicles, real estate opportunities and service providers.
 
----
 
-## 🎯 Currently
+##  Currently
 
 * 🚀 Building full-stack web and mobile applications
 * 📱 Developing React Native applications with Expo
@@ -77,14 +71,12 @@ A Senegalese digital platform focused on connecting users with vehicles, real es
 * 💡 Exploring AI, cybersecurity and digital innovation
 * 🇸🇳 Building technology solutions for Africa
 
----
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm interested in opportunities related to:
 
 **Full Stack Development · Mobile Development · Digital Innovation · AI · Technology Projects**
 
----
 
 ### 🌍 Building technology for Africa, one project at a time. 🇸🇳
